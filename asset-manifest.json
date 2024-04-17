@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2423ad36.css",
+    "main.js": "./static/js/main.e402e717.js",
+    "static/media/rostok.png": "./static/media/rostok.d9165da4572e02d26782.png",
+    "static/media/tasks.svg": "./static/media/tasks.4ee1559916c871d90c66bb8a6676d122.svg",
+    "static/media/notification.svg": "./static/media/notification.412d3a8573bc0168bcab99f37ca57ba5.svg",
+    "static/media/main.svg": "./static/media/main.eb54fcf6d76dc844cec49752bfce47fc.svg",
+    "static/media/wallet.svg": "./static/media/wallet.cf8727dc76793674e40ecac99ff3ddd9.svg",
+    "static/media/top.svg": "./static/media/top.9bc028dc1abd7f77552763500a9c05b5.svg",
+    "index.html": "./index.html",
+    "main.2423ad36.css.map": "./static/css/main.2423ad36.css.map",
+    "main.e402e717.js.map": "./static/js/main.e402e717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2423ad36.css",
+    "static/js/main.e402e717.js"
+  ]
+}
