@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.a7e77a78.css",
-    "main.js": "./static/js/main.9caa47ca.js",
+    "main.js": "./static/js/main.5dbf6e9c.js",
     "static/media/nft1.svg": "./static/media/nft1.3eaf872a3fe5a227b15d509444e635b9.svg",
     "static/media/rostok.png": "./static/media/rostok.d9165da4572e02d26782.png",
     "static/media/tasks.svg": "./static/media/tasks.4ee1559916c871d90c66bb8a6676d122.svg",
@@ -11,10 +11,10 @@
     "static/media/top.svg": "./static/media/top.9bc028dc1abd7f77552763500a9c05b5.svg",
     "index.html": "./index.html",
     "main.a7e77a78.css.map": "./static/css/main.a7e77a78.css.map",
-    "main.9caa47ca.js.map": "./static/js/main.9caa47ca.js.map"
+    "main.5dbf6e9c.js.map": "./static/js/main.5dbf6e9c.js.map"
   },
   "entrypoints": [
     "static/css/main.a7e77a78.css",
-    "static/js/main.9caa47ca.js"
+    "static/js/main.5dbf6e9c.js"
   ]
 }
