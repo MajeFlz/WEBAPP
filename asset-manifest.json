@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.0d588480.css",
-    "main.js": "./static/js/main.49ef5f46.js",
+    "main.css": "./static/css/main.b50707db.css",
+    "main.js": "./static/js/main.91b5a09c.js",
     "static/media/nft1.svg": "./static/media/nft1.3eaf872a3fe5a227b15d509444e635b9.svg",
     "static/media/rostok.png": "./static/media/rostok.d9165da4572e02d26782.png",
     "static/media/tasks.svg": "./static/media/tasks.4ee1559916c871d90c66bb8a6676d122.svg",
@@ -11,11 +11,11 @@
     "static/media/top.svg": "./static/media/top.9bc028dc1abd7f77552763500a9c05b5.svg",
     "index.html": "./index.html",
     "static/media/XGrey.svg": "./static/media/XGrey.480473fa95a58870686d216d699cf5b6.svg",
-    "main.0d588480.css.map": "./static/css/main.0d588480.css.map",
-    "main.49ef5f46.js.map": "./static/js/main.49ef5f46.js.map"
+    "main.b50707db.css.map": "./static/css/main.b50707db.css.map",
+    "main.91b5a09c.js.map": "./static/js/main.91b5a09c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d588480.css",
-    "static/js/main.49ef5f46.js"
+    "static/css/main.b50707db.css",
+    "static/js/main.91b5a09c.js"
   ]
 }
